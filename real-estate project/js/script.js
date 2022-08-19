@@ -13,7 +13,7 @@ function targetRelease() {
     doc.style.borderColor='rgba(22, 162, 73, 0.7)';
     doc.style.backgroundColor='white'
     doc.style.color='black';    
-    // added new functionalities in JS
+    // added new functionalities in JS.
 }
 
 function validate() {
